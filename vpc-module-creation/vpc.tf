@@ -192,9 +192,12 @@ resource "aws_route_table_association" "database" {
 }
 
 
+<<<<<<< HEAD:vpc-module-creation/vpc.tf
 
 
 
+=======
+>>>>>>> d06c940 (changes):vpc.tf
     
 
         
