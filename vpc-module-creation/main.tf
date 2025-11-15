@@ -23,6 +23,8 @@
         }
       )
     }
+
+    
     # creating the  public subnet
 
     resource "aws_subnet" "public_subnet" {
